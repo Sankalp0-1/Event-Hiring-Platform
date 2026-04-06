@@ -61,5 +61,5 @@ Data is stored in **separate collections** based on category:
 
 ## Live Demo
 
-- **Frontend:** [Vercel URL here]
-- **Backend:** [Render URL here]
+- **Frontend:** [https://event-hiring-platform.vercel.app]
+- **Backend:** [https://event-hiring-platform.onrender.com]
